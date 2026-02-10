@@ -69,3 +69,15 @@ API Tool: Ngrok (Secure tunnel for AI) & Cricbuzz API (for live scores)
 Add a feature to sync local data to the cloud for backup. 
 
 Create a leaderboard for local players. 
+
+Some of the app screenshots are here
+
+![Image](https://github.com/user-attachments/assets/5ba5a45a-4251-44d2-8905-f85a938fc7bd)
+![Image](https://github.com/user-attachments/assets/8d3deac9-79d9-47e6-b7f7-5bfb37453667)
+![Image](https://github.com/user-attachments/assets/21cdbe73-5b28-4ebf-b9bb-8f2de240911e)
+![Image](https://github.com/user-attachments/assets/eacb222a-b5b8-41e1-9fbc-7e631a61cb9f)
+![Image](https://github.com/user-attachments/assets/8251c72c-8c9f-4c7f-962f-b35475d5c2b0)
+![Image](https://github.com/user-attachments/assets/635bdbfc-6345-44dd-9c29-5240012a4c2a)
+![Image](https://github.com/user-attachments/assets/329dcb7b-b81f-4924-b906-82071f3cf007)
+![Image](https://github.com/user-attachments/assets/60455c31-9a4d-4599-b866-0e7e1aa5d491)
+![Image](https://github.com/user-attachments/assets/48ecbd1e-fd19-4614-a1f8-35e88ab0523c)
